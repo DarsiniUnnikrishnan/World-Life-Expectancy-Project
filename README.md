@@ -7,7 +7,7 @@ This project focuses on **cleaning and analyzing global life expectancy data** u
 
 ## 🛠 Tools and Technologies
 - **Database Management**: MySQL
-- **Dataset**: Global life expectancy data, sourced from public repositories like WHO or World Bank.
+
 
 ---
 
